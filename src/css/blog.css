@@ -1,0 +1,20 @@
+.Blog {
+  text-align: left;
+  font-size: 12px;
+}
+
+.post {
+
+}
+
+.post__title {
+  font-size: 15px;
+}
+
+.post__body {
+  font-size: 14px;
+}
+
+.post__date {
+  font-size: 12px;
+}

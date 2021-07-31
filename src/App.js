@@ -15,7 +15,7 @@ type Props = {
 
 const App = ({ children }) => (
   <div className="App">
-    <Header byline="***" />
+    <Header byline="" />
     {children}
   </div>
 )

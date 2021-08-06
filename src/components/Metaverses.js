@@ -1,5 +1,5 @@
 import axios from 'axios';
-import React, { Component, UseState } from 'react';
+import React, { Component, useState } from 'react';
 import propTypes from 'prop-types';
 import styled, { css } from 'styled-components';
 

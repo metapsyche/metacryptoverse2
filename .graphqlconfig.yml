@@ -1,0 +1,15 @@
+projects:
+  Metaverse AppSync API:
+    schemaPath: src/graphql/schema.json
+    includes:
+      - src/graphql/**/*.js
+    excludes:
+      - ./amplify/**
+    extensions:
+      amplify:
+        codeGenTarget: javascript
+        generatedFileName: ''
+        docsFilePath: src/graphql
+        region: us-east-1
+        apiId: 7mb3garzmndutc2cezcosv25ue
+        maxDepth: 2

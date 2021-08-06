@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-metacryptoverse2-dev-121718-authRole",
+      "UnauthRoleArn": "arn:aws:iam::660169783645:role/amplify-metacryptoverse2-dev-121718-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::660169783645:role/amplify-metacryptoverse2-dev-121718-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-metacryptoverse2-dev-121718-deployment",
+      "UnauthRoleName": "amplify-metacryptoverse2-dev-121718-unauthRole",
+      "StackName": "amplify-metacryptoverse2-dev-121718",
+      "StackId": "arn:aws:cloudformation:us-east-1:660169783645:stack/amplify-metacryptoverse2-dev-121718/1cd672c0-f3ad-11eb-9cc1-0e258982388f",
+      "AmplifyAppId": "d2lhrjp5qexy2s"
+    }
+  }
+}
